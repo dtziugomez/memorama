@@ -1,0 +1,10 @@
+bin\Debug\memorama.exe
+bin\Debug\memorama.pdb
+bin\Debug\memorama.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\memorama.Form1.resources
+obj\Debug\memorama.Resources.resources
+obj\Debug\memorama.vbproj.GenerateResource.Cache
+obj\Debug\memorama.exe
+obj\Debug\memorama.xml
+obj\Debug\memorama.pdb
